@@ -5,17 +5,7 @@
 
 此模块提供一个纯函数，可以将数组转化为树。
 
-[源代码](https://github.com/zhizao/tj-arr2tree)
 
-​	
-
-## 安装
-
-```powershell
-npm install tj-arr2tree --save
-```
-
-​	
 
 ## 使用
 
@@ -67,7 +57,7 @@ arr2tree函数共接收4个参数：
 
   约定的根节点的Id值
 
-​	
+	​	
 
 ## 返回值结构
 
